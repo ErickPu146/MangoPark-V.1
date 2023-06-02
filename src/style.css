@@ -29,17 +29,17 @@
 
 /* ajuste a boton y barra de busqueda */
 .class_input {
-    text-align: center;
-    border: none;
-    border-bottom: 3px solid lightslategray;
-    color: white;
-    border-radius: 15px;
-    background-color: transparent;
+    text-align: center !important;
+    border: none !important;
+    border-bottom: 3px solid lightslategray !important;
+    color: white !important;
+    border-radius: 15px !important;
+    background-color: transparent !important;
 }
 .class_input:focus {
-    color: white;
-    outline: none;
-    background: linear-gradient(to bottom, transparent, #444);
+    color: white !important;
+    outline: none !important;
+    background: linear-gradient(to bottom, transparent, #444) !important;
 }
 .class_bottom_search{
     background-color: #1c5560 !important;
@@ -53,10 +53,10 @@
 
 @media screen and (max-width: 991px){
     .class_input{
-        margin-bottom: 15px;
+        margin-bottom: 15px !important;
     }
     .class_bottom_search{
-        margin-bottom: 15px;
+        margin-bottom: 15px !important;
     }
     /*.class_li{
         text-align: end;
