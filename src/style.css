@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card-zoo1 {
+    background-color: #93a42a;
+}
+
+.card-zoo2 {
+    background-color: #fdffd9;
+}
+
+.card-zoo3 {
+    background-color: #253342;
+}
+
+.card-zoo4 {
+    background-color: #f07241;
+}
