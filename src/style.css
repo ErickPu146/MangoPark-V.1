@@ -19,3 +19,19 @@
 .card-zoo4 {
     background-color: #f07241;
 }
+
+.galeria .imgContainer {
+    position: relative;
+	overflow: hidden;
+}
+
+.galeria .imgContainer img {
+	transition: transform 1s ease-out;
+}
+
+.galeria .imgContainer:hover img{
+    transform: scale(1.2);
+    border: 2px solid papayawhip;
+    border-radius: 50%;
+}
+
