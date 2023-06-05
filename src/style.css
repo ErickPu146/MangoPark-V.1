@@ -124,3 +124,10 @@
     background: linear-gradient(to bottom, transparent, #555);
     border-bottom: 3px solid lightslategray;
 }
+
+.i{
+    color: white;
+}
+i:hover{
+    color: green;
+}
