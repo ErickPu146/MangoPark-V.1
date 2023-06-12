@@ -125,6 +125,14 @@
     border-bottom: 3px solid lightslategray;
 }
 
+<<<<<<< HEAD
 .main_histori{
     background-image: url(../assets/images/fondo-historia.jpg);
+=======
+.i{
+    color: white;
+}
+i:hover{
+    color: green;
+>>>>>>> ccd2c77669824bc7a1882ad13b65b331c8ed3187
 }
