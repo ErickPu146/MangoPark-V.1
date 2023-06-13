@@ -166,3 +166,16 @@ i:hover{
 .main_histori{
     background-image: url(../assets/images/fondo-historia.jpg);
 }
+
+
+.color:hover{
+    background-color: rgba(0, 191, 255, 0.166);
+    min-width: none;
+}
+
+
+@media screen and (max-width: 344px){
+    .font{
+        font-size: 20px;
+    }
+}
