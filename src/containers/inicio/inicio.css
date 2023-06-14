@@ -1,0 +1,62 @@
+
+.nuevo {
+    background-color: #1f1f1f;
+    background-image: linear-gradient(180deg, #1f1f1f 0%, #0093E9 78%, #44e9ff 100%);
+    
+}
+
+.nuevo3 {
+    background-color: #1f1f1f;
+    background-image: linear-gradient(0deg, #1f1f1f 0%, #0093E9 78%, #44e9ff 100%);
+    
+}   
+
+
+.relative {
+    position: relative;
+}
+
+.fondoAnimal1 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.fondoAnimal2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+.card-zoo1 {
+    background-color: rgb(185, 176, 3);    
+    opacity: 70%;
+    color: #000000;
+}
+
+.card-zoo2 {
+    background-color: #fdffd9;
+}
+
+.card-zoo3 {
+    background-color: #253342;
+}
+
+.card-zoo4 {
+    background-color: #f07241;
+}
+
+.galeria .imgContainer {
+    position: relative;
+	overflow: hidden;
+}
+
+.galeria .imgContainer img {
+	transition: transform 1s ease-out;
+}
+
+.galeria .imgContainer:hover img{
+    transform: scale(1.2);
+    border-radius: 50%;
+}
