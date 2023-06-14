@@ -32,7 +32,7 @@ const Footer = () => {
                         </div>
                     </section>
                     <section className="justify-content-center d-flex mt-4">
-                        <p className="text-white">Copyright 2020 © All rights Reserved MangoPark Zoo | Design and Develop by Estudio
+                        <p className="text-white">Copyright 2023 © All rights Reserved MangoPark Zoo | Design and Develop by Estudio
                             MangoChango Academy</p>
                     </section>
                 </div>
