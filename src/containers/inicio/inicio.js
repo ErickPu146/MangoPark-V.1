@@ -20,7 +20,7 @@ const Inicio = () => {
                     <div className="container text-center relative">
                         <div className="row py-5">
                             <div className="card bg-transparent border-0 mt-4 mt-md-0 col-12 col-md-5 col-xl-4 mb-md-3">
-                                <div className="card-zoo1 rounded-5 card-body d-flex flex-column justify-content-center align-items-center">
+                                <div className="opacity card-zoo1 rounded-5 card-body d-flex flex-column justify-content-center align-items-center">
                                     <h1 className="w-100 border-bottom">
                                         Nosotros
                                     </h1>
@@ -33,7 +33,7 @@ const Inicio = () => {
                                 </div>
                             </div>
                             <div className="card bg-transparent border-0 mt-4 mt-md-0 col-12 col-md-7 col-xl-6 mb-md-3">
-                                <div className="card-zoo2 rounded-5 card-body d-flex flex-column justify-content-center align-items-center">
+                                <div className="opacity card-zoo2 rounded-5 card-body d-flex flex-column justify-content-center align-items-center">
                                     <h1 className="w-100 border-bottom">
                                         Compromiso
                                     </h1>
@@ -47,7 +47,7 @@ const Inicio = () => {
                                 </div>
                             </div>
                             <div className="card bg-transparent border-0 mt-4 mt-md-0 col-12 col-md-7 col-xl-6">
-                                <div className="text-light card-zoo3 rounded-5 card-body d-flex flex-column justify-content-center align-items-center">
+                                <div className="opacity text-light card-zoo3 rounded-5 card-body d-flex flex-column justify-content-center align-items-center">
                                     <h1 className="w-100 border-bottom">
                                         Proyectos
                                     </h1>
@@ -59,7 +59,7 @@ const Inicio = () => {
                                 </div>
                             </div>
                             <div className="card bg-transparent border-0 mt-4 mt-md-0 col-12 col-md-5 col-xl-4">
-                                <div className="text-light card-zoo4 rounded-5 card-body d-flex flex-column justify-content-center align-items-center">
+                                <div className="opacity card-zoo4 rounded-5 card-body d-flex flex-column justify-content-center align-items-center">
                                     <h1 className="w-100 border-bottom">
                                         Descubre
                                     </h1>
@@ -81,7 +81,7 @@ const Inicio = () => {
                     <div className="container my-5 text-center text-bg-dark rounded-5">
                         <div className="row align-items-center mt-5 galeria">
                             <div className="col-12 col-md-6 pt-3">
-                                <h2>Proteccion y bienestar</h2>
+                                <h1>Proteccion y bienestar</h1>
                                 <p>
                                     Te invitamos a visitarnos y descubrir cómo trabajamos incansablemente
                                     para proteger y preservar a nuestros animales. ¡Únete a nosotros en esta noble causa!"

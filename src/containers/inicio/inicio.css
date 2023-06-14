@@ -17,26 +17,41 @@
 }
 
 .fondoAnimal1 {
+    transition: transform 1s ease-out;
     position: absolute;
     bottom: 0;
     right: 0;
 }
+.fondoAnimal1:hover {
+    transform: scale(1.2);
+}
+
 
 .fondoAnimal2 {
+    transition: transform 1s ease-out;
     position: absolute;
     top: 0;
     left: 0;
 }
+.fondoAnimal2:hover {
+    transform: scale(1.2);
+}
 
+.opacity {
+    opacity: 70%;
+}
+
+.opacity:hover {
+    opacity: 100%;
+}
 
 .card-zoo1 {
     background-color: rgb(185, 176, 3);    
-    opacity: 70%;
     color: #000000;
 }
 
 .card-zoo2 {
-    background-color: #fdffd9;
+    background-color: #e3ad40;
 }
 
 .card-zoo3 {
@@ -44,7 +59,7 @@
 }
 
 .card-zoo4 {
-    background-color: #f07241;
+    background-color: #f89fa1;
 }
 
 .galeria .imgContainer {
