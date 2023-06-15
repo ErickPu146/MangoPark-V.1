@@ -1,10 +1,10 @@
 import { Footer } from "../../components/footer/footer";
-import { Header } from "../../components/header/header";
+import { HeaderForm } from "../../components/headerForm/headerForm";
 
 const Tienda = () => {
     return (
         <>
-            <Header/>
+            <HeaderForm />
             <Footer/>
         </>
     );
